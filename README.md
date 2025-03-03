@@ -1,4 +1,4 @@
-# Predictive Modeling of NFL Player Tracking Data Using Transformers 🏈
+# Predictive Modeling of NFL Player Tracking Data Using Transformers 
 
 ## Overview
 This project applies **transformer-based models** to predict **offensive formations and player movements** using **NFL player tracking data**. It leverages **deep learning** and **time-series forecasting** to enhance game strategy analysis. 
