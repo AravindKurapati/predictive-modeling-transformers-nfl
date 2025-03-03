@@ -12,7 +12,7 @@ This project applies **transformer-based models** to predict **offensive formati
 - The dataset includes **NFL player tracking data** from [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2025).
 - Preprocessed to extract **sequential movement data** for transformer models.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Python**
 - **PyTorch / TensorFlow**
 - **Hugging Face Transformers**
